@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745861092579",
+    "project_id": "fir-tut-7ed0f",
+    "storage_bucket": "fir-tut-7ed0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745861092579:android:7427d217c89834988ca1d6",
+        "android_client_info": {
+          "package_name": "com.bijaya.firebasewala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8SIea_92s_1SCUk89Is7Zmdz6BRPyQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
